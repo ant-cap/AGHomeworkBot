@@ -3,7 +3,7 @@ import discord, csv, nest_asyncio
 nest_asyncio.apply()
 
 
-TOKEN = "OTEzODc2MTIzOTA4MjEwNzA4.YaE3dg.0hjzynxB1ga6xeFeNTN0wCvUcHI"
+TOKEN = "xxxx"
 
 client = discord.Client()
 
